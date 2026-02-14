@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: shaikmustafa/bankapp:app
+        image: undabatla/bloodapp:appimage
         ports:
         - containerPort: 80
 
